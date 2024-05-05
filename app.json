@@ -1,8 +1,8 @@
 {
-  "name": "PRABATH-MD (2.0.5)",
-  "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
-  "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
+  "name": "𝛮𝛩𝐵𝛪𝑇𝛥 𝑇𝑅𝛪𝐶𝛫𝑆",
+  "description": "MrAsad has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "logo": "https://telegra.ph/file/0009861062da26fbd85b5.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "Asad_md"],
   "success_url": "/",
 
   "env": {
